@@ -1,3 +1,4 @@
+Style
 body{
 	margin: 0;
 	padding: 0;
@@ -145,8 +146,8 @@ li a:hover {
 .rate3 {		
     float: left;
     height: 10px;
-    margin-top: -50px;
-    margin-left: -20px;
+    margin-top: 30px;
+    margin-left: -200px;
     padding: 30px;
     padding-right: 80px
     
